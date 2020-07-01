@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/tableview</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=World</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Afghanistan</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Albania</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Algeria</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Andorra</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Angola</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Anguilla</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Antigua%20and%20barbuda</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Argentina</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Armenia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Aruba</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Australia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Austria</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Azerbaijan</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Bahamas</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Bahrain</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Bangladesh</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Barbados</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Belarus</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Belgium</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Belize</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Benin</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Bermuda</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Bhutan</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Bolivia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Bosnia%20and%20herzegovina</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Botswana</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Brazil</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=British%20virgin%20islands</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Brunei</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Bulgaria</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Burkina%20faso</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Burundi</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Car</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Cabo%20verde</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Cambodia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Cameroon</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Canada</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Caribbean%20netherlands</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Cayman%20islands</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Chad</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Channel%20islands</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Chile</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=China</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Colombia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Comoros</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Congo</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Costa%20rica</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Croatia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Cuba</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Cura%C3%A3%C2%A7ao</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Cyprus</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Czechia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Drc</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Denmark</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Diamond%20princess</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Djibouti</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Dominica</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Dominican%20republic</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Ecuador</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Egypt</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=El%20salvador</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Equatorial%20guinea</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Eritrea</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Estonia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Eswatini</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Ethiopia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Faeroe%20islands</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Falkland%20islands</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Fiji</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Finland</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=France</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=French%20guiana</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=French%20polynesia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Gabon</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Gambia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Georgia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Germany</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Ghana</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Gibraltar</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Greece</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Greenland</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Grenada</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Guadeloupe</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Guatemala</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Guinea</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Guinea-bissau</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Guyana</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Haiti</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Honduras</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Hong%20kong</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Hungary</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Iceland</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=India</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Indonesia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Iran</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Iraq</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Ireland</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Isle%20of%20man</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Israel</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Italy</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Ivory%20coast</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Jamaica</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Japan</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Jordan</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Kazakhstan</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Kenya</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Kuwait</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Kyrgyzstan</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Laos</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Latvia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Lebanon</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Liberia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Libya</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Liechtenstein</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Lithuania</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Luxembourg</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Ms%20zaandam</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Macao</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Madagascar</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Malawi</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Malaysia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Maldives</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Mali</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Malta</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Martinique</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Mauritania</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Mauritius</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Mayotte</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Mexico</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Moldova</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Monaco</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Mongolia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Montenegro</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Montserrat</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Morocco</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Mozambique</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Myanmar</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Namibia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Nepal</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Netherlands</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=New%20caledonia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=New%20zealand</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Nicaragua</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Niger</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Nigeria</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=North%20macedonia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Norway</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Oman</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Pakistan</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Palestine</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Panama</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Papua%20new%20guinea</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Paraguay</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Peru</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Philippines</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Poland</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Portugal</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Qatar</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Romania</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Russia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Rwanda</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=R%C3%A3%C2%A9union</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=S.%20korea</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Saint%20kitts%20and%20nevis</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Saint%20lucia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Saint%20martin</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Saint%20pierre%20miquelon</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=San%20marino</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Sao%20tome%20and%20principe</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Saudi%20arabia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Senegal</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Serbia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Seychelles</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Sierra%20leone</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Singapore</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Sint%20maarten</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Slovakia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Slovenia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Somalia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=South%20africa</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=South%20sudan</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Spain</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Sri%20lanka</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=St.%20barth</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=St.%20vincent%20grenadines</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Sudan</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Suriname</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Sweden</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Switzerland</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Syria</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Taiwan</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Tajikistan</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Tanzania</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Thailand</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Timor-leste</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Togo</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Trinidad%20and%20tobago</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Tunisia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Turkey</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Turks%20and%20caicos</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Uae</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Uk</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Usa</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Uganda</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Ukraine</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Uruguay</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Uzbekistan</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Vatican%20city</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Venezuela</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Vietnam</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Western%20sahara</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Yemen</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Zambia</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://coronavirus19-updates.herokuapp.com/?country=Zimbabwe</loc>
+  <lastmod>2020-05-09T01:09:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>

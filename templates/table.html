@@ -1,0 +1,53 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+	
+	<div class="container-fluid table-responsive">
+	<div style="z-index: -1; position: fixed" id="particles-js"></div>	
+		<table class="table table-bordered mt-3 sortable-table" id="covidTable">
+		    <thead class="thead-light">
+		      <tr>
+		      	<th class="numeric-sort">No.</th>
+		      	<th>Country</th>
+		        <th class="numeric-sort">Cases Today</th>
+		        <th class="numeric-sort">Active Cases</th>
+		        <th class="numeric-sort">Recovered</th>
+		        <th class="numeric-sort">Deaths Today</th>
+		        <th class="numeric-sort">Total Deaths</th>
+		        <th class="numeric-sort">Critical Cases</th>
+		        <th class="numeric-sort">Cases per mil</th>
+		        <th class="numeric-sort">Deaths per mil</th>
+		        <th class="numeric-sort">Total Cases</th>
+
+		      </tr>
+		    </thead>
+		    <tbody jput="tbody">
+
+		      {% for x in jsonData %}
+			      <tr class="item">
+			      	<td>{{ loop.index }}</td>
+			        <td>{{ x['country'] }}</td>
+			        <td class="text-warning">{{ '{:,}'.format(x['todayCases']) }}</td>
+			        {% if x['active'] != None %}
+			        <td class="text-warning">{{ '{:,}'.format(x['active']) }}</td>
+			        {% else %}
+			        <td class="text-warning">0</td>
+			        {% endif %}
+			        {% if x['recovered'] != None %}
+			        <td class="text-success">{{'{:,}'.format(x['recovered']) }}</td>
+			        {% else %}
+			        <td class="text-success">0</td>
+			        {% endif %}
+			        <td>{{ '{:,}'.format(x['todayDeaths']) }}</td>
+			        <td>{{ '{:,}'.format(x['deaths']) }}</td>
+			        <td class="text-danger">{{ '{:,}'.format(x['critical']) }}</td>
+			        <td>{{ '{:,}'.format(x['casesPerOneMillion']) }}</td>
+			        <td>{{ '{:,}'.format(x['deathsPerOneMillion']) }}</td>
+			        <td class="text-danger">{{ '{:,}'.format(x['cases']) }}</td>
+			      </tr>
+		      {% endfor %}
+		    </tbody>
+	  	</table>
+	</div>
+
+{% endblock content %}

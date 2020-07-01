@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Required Meta Tags -->
+		<meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    	<!-- Google site verification -->
+    	<meta name="google-site-verification" content="4vOmvaSE-x8mkBRHpsRbzPpDD2kmRRmwc5ARy83Q39M" />
+
+    	<meta name="description" content="See coronavirus (COVID-19) latest updates and statistics from different countries all over world.">
+
+    	<!-- Bootstrap 4 -->
+    	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+		<title>COVID-19 UPDATES</title>
+
+		<!-- Site icon -->
+		<link rel="icon" href="{{ url_for('static', filename='images/icon.png') }}">
+
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/sortable-table.css') }}">
+
+		<!-- style (move this to separate css) -->
+		<style>
+			@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500&display=swap');
+
+			.oswald {
+				font-family: 'Oswald', sans-serif;
+			}
+
+			.fw-200 {
+				font-weight: 200;
+			}
+			.fw-300 {
+				font-weight: 300;
+			}
+			.fw-400 {
+				font-weight: 400;
+			}
+			.fw-500 {
+				font-weight: 500;
+			}
+
+			.ltr-space {
+				letter-spacing: 1px;
+			}
+
+			.f-size-40 {
+				font-size: 40px;
+			}
+
+
+			.f-size-70 {
+				font-size: 70px;
+			}
+
+			.f-size-90 {
+				font-size: 90px;
+			}
+
+			.dd-h {
+				height: 250px;
+				overflow-y: scroll;
+			}
+
+			.dropdown-btn:hover {
+				cursor: pointer;
+			}
+
+			.col-lg-2 {
+				margin-bottom: 4px !important;
+			}
+			.col-lg-6 {
+				margin-bottom: 4px !important;
+			}
+
+			body {
+				height: 100vh;
+				margin: 0;
+				padding: 0;
+			}
+
+			#particles-js {
+				height: 100%;
+				background-color: white;
+			}
+
+			.card {
+				box-shadow: 5px 2px 19px -14px rgba(0,0,0,0.75);
+			}
+
+			th:hover {
+				cursor: pointer;
+				filter: brightness(70%);
+			}
+
+			/* create a media query here width 812 */
+
+		</style>
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165989811-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-165989811-1');
+		</script>
+
+		<!-- Sortable Table script -->
+		<script type="text/javascript" src="{{ url_for('static', filename='js/sortable-tables.js') }}"></script>
+
+		<!-- Sripts needed for bootstrap -->
+  		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+	</head>
+
+	<body>
+		<!-- navbar -->
+		<nav class="navbar navbar-expand-sm bg-light navbar-light">
+			<!-- navbar brand -->
+			<div class="navbar-brand">
+				<span class="text-danger oswald">COVID-19 UPDATES </span><small class="text-muted oswald fw-200 ltr-space">all over the world</small>
+			</div>
+
+			<!-- navbar items -->
+			<ul class="navbar-nav ml-auto">
+				{% if table %}
+				<li class="nav-item mr-3">
+		    		<a class="mb-0 oswald fw-200 " href="{{ url_for('main') }}">Back to default</a>
+		    	</li>
+		    	{% else %}
+		    	<li class="nav-item mr-3">
+		    		<a class="mb-0 oswald fw-200" href="{{ url_for('table') }}">Switch to Table View</a>
+		    	</li>
+		    	{% endif %}
+				<li class="nav-item">
+		    		<p class="mb-0 oswald fw-200">{{ date }}</p>
+		    	</li>
+			</ul>
+		</nav>
+
+		<!-- Content -->
+		{% block content %}
+		{% endblock content %}
+
+		<!-- Particle JS -->
+		<script src="{{ url_for('static', filename='js/particles.js') }}"></script>
+		<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+
+	</body>
+
+	<!-- Creator -->
+	<footer style="margin-top: 120px">
+		<div class="text-center"><small class="text-muted">Made by Ben taher Souha 2020 | </small></div>
+	</footer>
+
+	<!-- Heroku API: https://coronavirus-19-api.herokuapp.com/countries -->
+</html>

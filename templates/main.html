@@ -1,0 +1,124 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+	
+	<!-- content -->
+	<div class="container-fluid">
+		<div style="z-index: -1; position: fixed" id="particles-js"></div>
+		<!-- dropdown -->
+		<div class="dropdown text-center">
+			<p class="text-center pt-3 mb-0"><small class="text-muted">Currently in:</small></p>
+			<a class="mb-0 p-0 dropdown-btn text-primary" data-toggle='dropdown'><i class="material-icons">expand_more</i></a>
+			<div class="dropdown-menu dd-h">
+				<a class="dropdown-item" href="?country=World">World</a>
+				<div class="dropdown-divider"></div>
+			    {% for drop_country in countries %}
+			    <a class="dropdown-item" href="?country={{ drop_country }}">{{ drop_country }}</a>
+			    {% endfor %}
+			</div>
+		</div>
+			
+		<!-- current country -->
+		<h1 class="text-center oswald mt-0 f-size-70">{{ url_country }}</h1>
+
+		<!-- Total Cases -->
+		<div class="text-center mt-4"><small class="text-muted">Total cases: </small></div>
+		<h1 class="text-center text-danger oswald f-size-90 fw-200" id="totalCaseCounter"></h1>
+	
+		<!-- Other Datas -->
+		<div class="row p-3">
+			<div class="col-lg-2">
+				<div class="card ">
+					<div class="text-center"><small class="text-muted">Cases today: </small></div>
+					<h2 class="text-center text-warning" id="caseTodayCounter"></h2>
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class="card">
+					<div class="text-center"><small class="text-muted">Active Cases: </small></div>
+					<h2 class="text-center text-warning" id="activeCasesCounter"></h2>
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class="card">
+					<div class="text-center"><small class="text-muted">Total deaths: </small></div>
+					<h2 class="text-center" id="deathCounter"></h2>
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class="card">
+					<div class="text-center"><small class="text-muted">Deaths Today: </small></div>
+					<h2 class="text-center" id="todayDeathsCounter"></h2>
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class="card">
+					<div class="text-center"><small class="text-muted">Recovered: </small></div>
+					<h2 class="text-center text-success" id="recoveredCounter"></h2>
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class="card">
+					<div class="text-center"><small class="text-muted">Critical Cases: </small></div>
+					<h2 class="text-center text-danger" id="criticalCounter"></h2>
+				</div>
+			</div>
+		</div>
+
+		<div class="row p-3">
+			<div class="col-lg-6">
+				<div class="card">
+					<div class="text-center"><small class="text-muted">Cases per one million: </small></div>
+					<h2 class="text-center text-danger" id="casesPerOneMillion"></h2>
+				</div>
+			</div>
+			
+			<div class="col-lg-6">
+				<div class="card">
+					<div class="text-center"><small class="text-muted">Deaths per one million: </small></div>
+					<h2 class="text-center text-danger" id="deathsPerOneMillion"></h2>
+				</div>
+			</div>
+		</div>
+
+		<!-- HashTag -->
+		<div>
+			<h1 class="text-center oswald fw-500">#StayAtHome</h1>
+		</div>
+
+	</div>
+
+	<!-- I might convert this to python -->
+	<!-- script for displaying the datas -->
+	<script type="text/javascript">
+
+		$.fn.digits = function(){ 
+		    return this.each(function(){ 
+		        $(this).text( $(this).text().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,") ); 
+		    })
+		}
+
+		$(document).ready(function () {
+            function getWorldCovidCases() {
+                $.get("https://coronavirus-19-api.herokuapp.com/countries/{{ url_country }}", function (data) {
+                    $("#totalCaseCounter").html(data.cases).digits();
+                    $("#caseTodayCounter").html(data.todayCases).digits();
+                    $("#deathCounter").html(data.deaths).digits();
+                    $("#todayDeathsCounter").html(data.todayDeaths).digits();
+                    $("#recoveredCounter").html(data.recovered).digits();
+                    $("#activeCasesCounter").html(data.active).digits();
+                    $("#criticalCounter").html(data.critical).digits();
+                    $("#casesPerOneMillion").html(data.casesPerOneMillion).digits();
+                    $("#deathsPerOneMillion").html(data.deathsPerOneMillion).digits();
+
+                    setTimeout(function () {
+                        getPhilippineCovidCase();
+                    }, 3600000);
+                });
+            }
+
+            getWorldCovidCases();
+    	});
+	</script>
+
+{% endblock content %}
